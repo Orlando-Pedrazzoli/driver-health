@@ -5,7 +5,7 @@ import '../pages/CSS/Register.css';
 function Register() {
   return (
     <div className='authentication'>
-      <div className='authentication-form card p-2'>
+      <div className='authentication-form card p-2 '>
         <h1 className='card-title'>Signup Driver</h1>
         <Form layout='vertical'>
           <Form.Item label='Name' name='name'>
